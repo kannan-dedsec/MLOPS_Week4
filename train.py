@@ -28,3 +28,4 @@ with open('metrics.txt', 'w') as f:
 print(f"Model trained with accuracy: {accuracy}")
 print("Model saved to model/model.joblib")
 print("Metrics saved Metrics.txt")
+print("hellp")
