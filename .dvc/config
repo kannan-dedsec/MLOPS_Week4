@@ -2,4 +2,3 @@
     remote = gcsremote
 ['remote "gcsremote"']
     url = gs://mlops-week4-ga
-    credentialpath = ../../eng-copilot-473911-g1-90972fbadf23.json
