@@ -48,7 +48,7 @@ jobs:
         env:
           MLFLOW_TRACKING_URI: gs://mlops-week4-ga/mlruns
           MLFLOW_EXPERIMENT_NAME: iris_logreg_experiment
-          BUCKET_NAME: your-gcs-bucket-name
+          BUCKET_NAME: mlops-week4-ga
         run: |
           python mlflow_log.py
 
