@@ -1,0 +1,6 @@
+{
+  "max_iter": 1,
+  "C": 0.8,
+  "solver": "liblinear",
+  "random_state": 42
+}
