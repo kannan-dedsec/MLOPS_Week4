@@ -50,7 +50,7 @@ jobs:
           MLFLOW_EXPERIMENT_NAME: iris_logreg_experiment
           BUCKET_NAME: mlops-week4-ga
         run: |
-          python mlflow.py
+          python mlflow_log.py
 
      
       - name: Run pytest and generate report
